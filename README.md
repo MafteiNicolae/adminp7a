@@ -10,7 +10,7 @@ Descriere proiect
 
 Tehnologii
 
-  Laravel 8
-  Html
-  CSS
+  Laravel 8,
+  Html,
+  CSS,
   Javascript
